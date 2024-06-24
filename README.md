@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs,ReactJs**
+- 🌱 I’m currently learning **Cloud and DevOps**
 
 - 📫 How to reach me **katrothanil123@gmail.com**
 
